@@ -1,4 +1,5 @@
-using namespace std
-  int main(){
-    printf "hello world";
-  }
+#include <stdio.h>
+
+int main(int argc, char *argv[]) {
+    printf("Hello world!\n");
+return 0; }
